@@ -19,9 +19,6 @@
 ---
 
 ## ⚡ About Me
-
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-dev110&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=00ff41&text_color=ccffcc&border_radius=12" />
-
 - 💼 Frontend Developer specializing in **React & JavaScript**
 - 🎯 Goal: Becoming a **Full-Stack Developer**
 - 🌱 Currently learning **Redux Toolkit & REST APIs**
@@ -48,7 +45,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **Tools & Platforms**
 
@@ -56,15 +52,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-**Integrations**
-
-![EmailJS](https://img.shields.io/badge/EmailJS-FF6600?style=for-the-badge&logo=maildotru&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-
+![Antigravity ](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 </div>
 
 ---
@@ -75,8 +63,9 @@
 
 | Project | Description | Stack | Live |
 |---------|-------------|-------|------|
-| 🛍️ **StyleShop** | E-commerce storefront with cart & checkout | `HTML` `CSS` `JS` | [→ Visit](https://mahdi-ecommerce.pages.dev/) |
-| 🍽️ **Mahdi Restaurant** | Food ordering app with interactive menu | `React` `CSS` | [→ Visit](https://mahdi-restaurant.vercel.app/) |
+| 🛍️ **StyleShop** | E-commerce storefront with cart & checkout | `HTML` `CSS` `JS` | [→ Visit]( https://mahdi-dev110.github.io/Mahdi-Ecommerce/) |
+| 📩 **Client-handlebot-agent-template** | Handle clients through this ai agent with telegram bot | `HTML` `CSS` `JS` | [→ Visit](https://github.com/mahdi-dev110/Telegram-Ai-Client-Agent) |
+| 🍽️ **Mahdi Restaurant** | Food ordering app with interactive menu | `HTML` `CSS` `JS` | [→ Visit](https://mahdi-dev110.github.io/Mahdi-Restaurant/) |
 | 🤖 **MahdiAI Generator** | AI text-to-image with real-time results | `JS` `REST API` | [→ Visit](https://mahdi-imageai-generator.pages.dev/) |
 | ₿ **Crypto Nexus** | Live crypto dashboard & market charts | `JS` `REST API` | [→ Visit](https://mahdi-dev110.github.io/Mahdi-Crypto-Nexus/) |
 | 🎬 **MovieDB** | Film discovery with search & filters | `JS` `REST API` | [→ Visit](https://mahdi-dev110.github.io/Movie-Database/) |
