@@ -26,7 +26,7 @@
   <h3>🌐 Socials</h3>
 
   <p align="left">
-    <a href="https://mahdi-porfolio.muntazirmahdi-dev.workers.dev">
+    <a href="https://mahdi-porfolio.pages.dev/">
       <img src="https://img.shields.io/badge/Portfolio-29ff03?style=for-the-badge&logoColor=black&logo=googlechrome" />
     </a>
     <a href="https://github.com/mahdi-dev110">
@@ -87,14 +87,14 @@
 
 | Project | Type | Stack | Links |
 |---|---|---|---|
-| **Jawad Rajper — 3D Artist Portfolio** | 👔 Client | HTML · CSS · JS · Canvas | [View →](https://mahdi-porfolio.muntazirmahdi-dev.workers.dev) |
-| **Mahdi Cuts — Video Editor Portfolio** | 👔 Client | HTML · CSS · JS | [View →](https://mahdi-porfolio.muntazirmahdi-dev.workers.dev) |
-| **MavioMahdi — Ecommerce Platform** | Personal | React · Redux Toolkit · React Router | [Live →](https://mahdi-porfolio.muntazirmahdi-dev.workers.dev) |
-| **Mahdi Restaurant — Food App** | Personal | React · React Router · CSS3 | [Live →](https://mahdi-porfolio.muntazirmahdi-dev.workers.dev) |
-| **Mahdi Inkwell — Editorial Blog** | Personal | HTML · CSS · JS · AOS | [Live →](https://mahdi-porfolio.muntazirmahdi-dev.workers.dev) |
-| **SecureAuth Login System** | Personal | HTML · CSS · JS | [Live →](https://mahdi-porfolio.muntazirmahdi-dev.workers.dev) |
+| **Jawad Rajper — 3D Artist Portfolio** | 👔 Client | HTML · CSS · JS · Canvas | [View →](https://mahdi-porfolio.pages.dev/) |
+| **Mahdi Cuts — Video Editor Portfolio** | 👔 Client | HTML · CSS · JS | [View →](https://mahdi-porfolio.pages.dev/) |
+| **MavioMahdi — Ecommerce Platform** | Personal | React · Redux Toolkit · React Router | [Live →](https://mahdi-porfolio.pages.dev/) |
+| **Mahdi Restaurant — Food App** | Personal | React · React Router · CSS3 | [Live →](https://mahdi-porfolio.pages.dev/) |
+| **Mahdi Inkwell — Editorial Blog** | Personal | HTML · CSS · JS · AOS | [Live →](https://mahdi-porfolio.pages.dev/) |
+| **SecureAuth Login System** | Personal | HTML · CSS · JS | [Live →](https://mahdi-porfolio.pages.dev/) |
 
-> 🔗 **See all 9 projects on my [portfolio](https://mahdi-porfolio.muntazirmahdi-dev.workers.dev)**
+> 🔗 **See all 9 projects on my [portfolio](https://mahdi-porfolio.pages.dev/)**
 
 ---
 
@@ -112,5 +112,5 @@
 ---
 
 <div align="center">
-  <sub>Crafted with ⚡ by <strong>Mahdi</strong> · <a href="https://mahdi-porfolio.muntazirmahdi-dev.workers.dev">mahdi-porfolio.muntazirmahdi-dev.workers.dev</a></sub>
+  <sub>Crafted with ⚡ by <strong>Mahdi</strong> · <a href="https://mahdi-porfolio.pages.dev/">mahdi-porfolio.muntazirmahdi-dev.workers.dev</a></sub>
 </div>
