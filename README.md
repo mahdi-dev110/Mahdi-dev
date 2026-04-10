@@ -97,18 +97,6 @@
 
 ---
 
-## 📦 Digital Products
-
-> AI automation kits I've built and sell — ready-to-deploy, fully documented.
-
-| Product | What it does | Stack | Get it |
-|---|---|---|---|
-| **AI Client Intake Kit — Website Chat Page** | Standalone chat page that qualifies leads, generates a PRD, and sends a Gmail notification. No widget — a full deployable page. | n8n · Groq · Llama 3 · Cloudflare Pages · Gmail | [Lemon Squeezy →](https://mahdi-porfolio.pages.dev/#products) |
-| **AI Client Intake Kit — Telegram Bot** | Same intelligent intake flow, delivered entirely through a Telegram bot. | n8n · Groq · Llama 3 · Telegram Bot API · Gmail | Coming Soon |
-
-> 🏷️ Use code **`MAHDI12`** at checkout for a discount.
-
----
 
 ## 🚀 Featured Projects
 
@@ -128,15 +116,28 @@
 
 ---
 
+## 📦 Digital Products
+
+> AI automation kits I've built and sell — ready-to-deploy, fully documented.
+
+| Product | What it does | Stack | Get it |
+|---|---|---|---|
+| **AI Client Intake Kit — Website Chat Page** | Standalone chat page that qualifies leads, generates a PRD, and sends a Gmail notification. No widget — a full deployable page. | n8n · Groq · Llama 3 · Cloudflare Pages · Gmail | [Lemon Squeezy →](https://mahdi-porfolio.pages.dev/#products) |
+| **AI Client Intake Kit — Telegram Bot** | Same intelligent intake flow, delivered entirely through a Telegram bot. | n8n · Groq · Llama 3 · Telegram Bot API · Gmail | Coming Soon |
+
+> 🏷️ Use code **`MAHDI12`** at checkout for a discount.
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=mahdi-dev110&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0f&title_color=29ff03&icon_color=29ff03&text_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahdi-dev110&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0f&title_color=29ff03&icon_color=29ff03&text_color=ffffff" alt="GitHub Stats" />
   <br/><br/>
   <img src="https://streak-stats.demolab.com?user=mahdi-dev110&theme=dark&hide_border=true&background=0a0a0f&ring=29ff03&fire=29ff03&currStreakLabel=29ff03" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-dev110&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0f&title_color=29ff03&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahdi-dev110&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0f&title_color=29ff03&text_color=ffffff" alt="Top Languages" />
 </div>
 
 ---
