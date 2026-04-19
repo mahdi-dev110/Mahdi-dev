@@ -29,7 +29,7 @@
   <h3>🌐 Socials</h3>
 
   <p align="left">
-    <a href="https://mahdi-porfolio.pages.dev/">
+    <a href="https://mahdi-porfolio.muntazirmahdi-dev.workers.dev/">
       <img src="https://img.shields.io/badge/Portfolio-29ff03?style=for-the-badge&logoColor=black&logo=googlechrome" />
     </a>
     <a href="https://github.com/mahdi-dev110">
@@ -86,33 +86,35 @@
 ![Flexbox](https://img.shields.io/badge/Flexbox-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Mobile First](https://img.shields.io/badge/Mobile--First-29ff03?style=for-the-badge&logo=google-chrome&logoColor=black)
 ![AOS](https://img.shields.io/badge/AOS_Animations-0a0a0f?style=for-the-badge&logo=javascript&logoColor=29ff03)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
 
 **🔌 Integrations**
 
 ![EmailJS](https://img.shields.io/badge/EmailJS-FF6600?style=for-the-badge&logo=maildotru&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-29ff03?style=for-the-badge&logo=fastapi&logoColor=black)
 ![Webhooks](https://img.shields.io/badge/Webhook_Flows-6E40C9?style=for-the-badge&logo=zapier&logoColor=white)
+![Formspree](https://img.shields.io/badge/Formspree-E84545?style=for-the-badge&logo=formspree&logoColor=white)
 ![Chat Widget](https://img.shields.io/badge/Chat_Widget_Integration-29ff03?style=for-the-badge&logo=googlechrome&logoColor=black)
 </p>
 
 ---
 
-
 ## 🚀 Featured Projects
 
 | Project | Type | Stack | Links |
 |---|---|---|---|
-| **Jawad Rajper — 3D Artist Portfolio** | 👔 Client | HTML · CSS · JS · Canvas · Particles | [View →](https://mahdi-porfolio.pages.dev/#projects) |
-| **Mahdi Cuts — Video Editor Portfolio** | 👔 Client | HTML · CSS · JS | [View →](https://mahdi-porfolio.pages.dev/#projects) |
-| **MavioMahdi — Ecommerce Platform** | Personal | React · Redux Toolkit · React Router | [Live →](https://mahdi-porfolio.pages.dev/#projects) |
-| **Mahdi Restaurant — Food App** | Personal | React · React Router · CSS3 | [Live →](https://mahdi-porfolio.pages.dev/#projects) |
-| **Mahdi Travels — Agency Landing Page** | Personal | HTML · CSS · JS · Booking Modal | [Live →](https://mahdi-porfolio.pages.dev/#projects) |
-| **Mahdi's Hotel** | Personal | HTML · CSS · JS | [Live →](https://mahdi-porfolio.pages.dev/#projects) |
-| **Mahdi Inkwell — Editorial Blog** | Personal | HTML · CSS · JS · AOS | [Live →](https://mahdi-porfolio.pages.dev/#projects) |
-| **SecureAuth Login System** | Personal | HTML · CSS · JS | [Live →](https://mahdi-porfolio.pages.dev/#projects) |
-| **Mahdi Blog** | Personal | HTML · CSS · JS | [Live →](https://mahdi-porfolio.pages.dev/#projects) |
+| **Jawad Rajper — 3D Artist Portfolio** | 👔 Client | HTML · CSS · JS · GSAP · Canvas · Particles · 3D CSS | [View →](https://mahdi-porfolio.muntazirmahdi-dev.workers.dev/#projects) |
+| **Zakir Hussain — Video Editor Portfolio** | 👔 Client | HTML · CSS · JS · GSAP · Lenis · Swiper · EmailJS | [View →](https://mahdi-porfolio.muntazirmahdi-dev.workers.dev/#projects) |
+| **MavioMahdi — Ecommerce Platform** | Personal | React · Redux Toolkit · React Router | [Live →](https://mahdi-ecommerce.vercel.app/) |
+| **Mahdi Restaurant — Food App** | Personal | React · React Router · CSS3 | [Live →](https://mahdi-restaurant.vercel.app/) |
+| **Mahdi Travels — Agency Landing Page** | Personal | HTML · CSS · JS · Booking Modal | [Live →](https://mahdi-porfolio.muntazirmahdi-dev.workers.dev/#projects) |
+| **Mahdi's Hotel** | Personal | HTML · CSS · JS | [Live →](https://mahdi-dev110.github.io/Mahdis-Hotel/) |
+| **Mahdi Inkwell — Editorial Blog** | Personal | HTML · CSS · JS · AOS | [Live →](https://mahdi-dev110.github.io/Mahdi-inkwell/) |
+| **Mahdi Cuts — Video Editor Portfolio** | Personal | HTML · CSS · JS | [Live →](https://mahdi-cuts.muntazirmahdi-dev.workers.dev) |
+| **SecureAuth Login System** | Personal | HTML · CSS · JS | [Live →](https://mahdi-porfolio.muntazirmahdi-dev.workers.dev/#projects) |
+| **Mahdi Blog** | Personal | HTML · CSS · JS | [Live →](https://mahdi-porfolio.muntazirmahdi-dev.workers.dev/#projects) |
 
-> 🔗 **See all projects + live demos on my [portfolio](https://mahdi-porfolio.pages.dev/)**
+> 🔗 **See all projects + live demos on my [portfolio](https://mahdi-porfolio.muntazirmahdi-dev.workers.dev/)**
 
 ---
 
@@ -122,7 +124,7 @@
 
 | Product | What it does | Stack | Get it |
 |---|---|---|---|
-| **AI Client Intake Kit — Website Chat Page** | Standalone chat page that qualifies leads, generates a PRD, and sends a Gmail notification. No widget — a full deployable page. | n8n · Groq · Llama 3 · Cloudflare Pages · Gmail | [Lemon Squeezy →](https://mahdi-porfolio.pages.dev/#products) |
+| **AI Client Intake Kit — Website Chat Page** | Standalone chat page that qualifies leads, generates a PRD, and sends a Gmail notification. No widget — a full deployable page. | n8n · Groq · Llama 3 · Cloudflare Pages · Gmail | [Lemon Squeezy →](https://mahdi-ai-intake-kit.lemonsqueezy.com) |
 | **AI Client Intake Kit — Telegram Bot** | Same intelligent intake flow, delivered entirely through a Telegram bot. | n8n · Groq · Llama 3 · Telegram Bot API · Gmail | Coming Soon |
 
 > 🏷️ Use code **`MAHDI12`** at checkout for a discount.
@@ -143,5 +145,5 @@
 ---
 
 <div align="center">
-  <sub>Crafted with ⚡ by <strong>Mahdi</strong> · <a href="https://mahdi-porfolio.pages.dev/">mahdi-porfolio.pages.dev</a></sub>
+  <sub>Crafted with ⚡ by <strong>Mahdi</strong> · <a href="https://mahdi-porfolio.muntazirmahdi-dev.workers.dev/">mahdi-porfolio.muntazirmahdi-dev.workers.dev</a></sub>
 </div>
