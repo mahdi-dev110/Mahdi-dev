@@ -118,17 +118,16 @@
 
 ---
 
-## 📦 Digital Products
+## 📦 Open Source Products
 
-> AI automation kits I've built and sell — ready-to-deploy, fully documented.
+> AI automation kits I've built and released for free — ready-to-deploy, fully documented.
 
-| Product | What it does | Stack | Get it |
+| Product | What it does | Stack | Links |
 |---|---|---|---|
-| **AI Client Intake Kit — Website Chat Page** | Standalone chat page that qualifies leads, generates a PRD, and sends a Gmail notification. No widget — a full deployable page. | n8n · Groq · Llama 3 · Cloudflare Pages · Gmail | [Lemon Squeezy →](https://mahdi-ai-intake-kit.lemonsqueezy.com) |
-| **AI Client Intake Kit — Telegram Bot** | Same intelligent intake flow, delivered entirely through a Telegram bot. | n8n · Groq · Llama 3 · Telegram Bot API · Gmail | Coming Soon |
+| **AI Client Intake Kit — Website Chat Page** | Standalone chat page that qualifies leads via AI. The chat is the page — not a widget. Includes workflow JSON, PDF guide, prompt & video tutorial. | n8n · Groq · Llama 3 · Cloudflare Pages | [GitHub →](https://github.com/mahdi-dev110/ai-client-intake-kit)|
+| **AI Client Intake Kit — Telegram Bot** | Same intelligent intake flow delivered inside a Telegram bot. Includes workflow template, PDF guide & prompt. | n8n · Groq · Llama 3 · Telegram Bot API | [GitHub →](https://github.com/mahdi-dev110/ai-client-intake-kit-telegram) |
 
-> 🏷️ Use code **`MAHDI12`** at checkout for a discount.
-
+> ⭐ Both are free & MIT licensed — star the repos if they help you!
 ---
 
 ## 📊 GitHub Stats
